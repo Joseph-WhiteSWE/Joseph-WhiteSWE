@@ -16,5 +16,28 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-About Me
+name: Joseph White
+located_in: Houston, TX
+current_job: Freelancer
+education:
+  [
+    "Web Development Bootcamp",
+    "Bachelor's in Cloud Technology",
+  ]
+
+fields_of_interests:
+  [
+    "Fullstack Development",
+    "AI",
+    "DevOps",
+  ]
+technical_background: 
+  [
+    "In Progress",
+  ]
+  
+currently_learning: ["JavaScript, React, Python, C#"]
+2023 Goals: ["Increase familiarity in languages, Create a porfolio website, Create a mobile app"]
+2024 First Quarter Goals: ["Secure a +90k engineering position, Create 5 mobiles apps."]
+hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 ```
