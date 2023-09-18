@@ -23,13 +23,13 @@ veteran: Navy
 education:
   [
     "Web Development Bootcamp",
-    "Bachelor's in Cloud Technology",
+    "Bachelor's in Cloud Technology"
   ]
 fields_of_interests:
   [
     "Fullstack Development",
     "AI",
-    "DevOps",
+    "DevOps"
   ]
 currently_learning: ["JavaScript, React, Python, C#"]
 2023 Goals: ["Increase familiarity of languages, Create a porfolio website, Create a mobile app"]
