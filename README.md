@@ -52,6 +52,10 @@ hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 
 <h2>📊 My Stats</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joseph-WhiteSWE&theme=elegant)](https://git.io/streak-stats)
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joseph-WhiteSWE&theme=elegant)](https://git.io/streak-stats)
+</div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-WhiteSWE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
