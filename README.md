@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> 👨🏾‍💻 A Little About Myself</h2>
+
 ```yaml
 name: Joseph White
 located_in: Houston, TX
