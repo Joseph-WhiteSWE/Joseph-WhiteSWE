@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 name: Joseph White
 located_in: Houston, TX
 current_job: Freelancer
+military_service: Navy
 education:
   [
     "Web Development Bootcamp",
