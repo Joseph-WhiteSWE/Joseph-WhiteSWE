@@ -24,20 +24,14 @@ education:
     "Web Development Bootcamp",
     "Bachelor's in Cloud Technology",
   ]
-
 fields_of_interests:
   [
     "Fullstack Development",
     "AI",
     "DevOps",
   ]
-technical_background: 
-  [
-    "In Progress",
-  ]
-  
 currently_learning: ["JavaScript, React, Python, C#"]
-2023 Goals: ["Increase familiarity in languages, Create a porfolio website, Create a mobile app"]
-2024 First Quarter Goals: ["Secure a +90k engineering position, Create 5 mobiles apps."]
+2023 Goals: ["Increase familiarity of languages, Create a porfolio website, Create a mobile app"]
+2024 First Quarter Goals: ["Secure a +90k engineering position"]
 hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 ```
