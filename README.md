@@ -22,7 +22,7 @@ veteran: Navy
 education:
   {
     "certificate": "Web Development Bootcamp",
-    "bachelor": "Cloud Technology"
+    "bachelors": "Cloud Technology"
   }
 organizations: ["#100Devs", "Htx Code & Coffee"]
 fields_of_interests: ["Fullstack Development","AI","DevOps"]
