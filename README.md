@@ -53,5 +53,5 @@ hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 
 <h2>📊 My Stats :</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joseph-WhiteSWE&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joseph-WhiteSWE&theme=github-dark)](https://git.io/streak-stats)
 
