@@ -50,3 +50,7 @@ hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
 </p>
+
+<h2>📊 My Stats :</h2>
+https://github-readme-streak-stats.herokuapp.com/?Joseph-WhiteSWE
+
