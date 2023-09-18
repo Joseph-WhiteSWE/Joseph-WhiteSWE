@@ -24,6 +24,7 @@ education:
     "certificate": "Web Development Bootcamp",
     "bachelor": "Cloud Technology"
   }
+organizations: ["#100Devs", "Htx Code & Coffee"]
 fields_of_interests: ["Fullstack Development","AI","DevOps"]
 currently_learning: ["JavaScript, React, Python, C#"]
 2023 Goals: ["increase familiarity of languages, create a porfolio website, create a mobile app"]
