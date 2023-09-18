@@ -26,8 +26,8 @@ education:
   }
 fields_of_interests: ["Fullstack Development","AI","DevOps"]
 currently_learning: ["JavaScript, React, Python, C#"]
-2023 Goals: ["Increase familiarity of languages, Create a porfolio website, Create a mobile app"]
-2024 First Quarter Goals: ["Secure a +90k engineering position"]
+2023 Goals: ["increase familiarity of languages, create a porfolio website, create a mobile app"]
+2024 First Quarter Goals: ["secure a +90k engineering position"]
 hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 ```
 
