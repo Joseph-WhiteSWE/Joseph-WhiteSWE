@@ -21,10 +21,10 @@ located_in: Houston, TX
 current_job: Freelancer
 veteran: Navy
 education:
-  [
-    "Web Development Bootcamp",
-    "Bachelor's in Cloud Technology"
-  ]
+  {
+    "certificate": "Web Development Bootcamp",
+    "bachelor": "Cloud Technology"
+  }
 fields_of_interests:
   [
     "Fullstack Development",
