@@ -39,6 +39,13 @@ hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 ###<h2> 🧠 &nbsp;Some Languages I've Learned</h2>
 ###<p align="left">
 ###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
+###<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg)" alt="Sequelize" width="45" height="45"/>
+###<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" alt="postgresql" width="45" height="45"/>
+###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
+###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
+###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
+###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
+###<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
 ###</p>
