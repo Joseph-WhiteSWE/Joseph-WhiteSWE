@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Joseph-WhiteSWE/Joseph-WhiteSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +31,8 @@ currently_learning: ["JavaScript, React, Python, C#"]
 hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 ```
 
-<h2> 🧠 &nbsp;Some Languages & Softwares I've Learned</h2>
+<h2> 🧠 Some Languages & Softwares I've Learned</h2>
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
@@ -51,7 +50,7 @@ hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>
 </p>
 
-<h2>📊 My Stats :</h2>
+<h2>📊 My Stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joseph-WhiteSWE&theme=elegant)](https://git.io/streak-stats)
 
