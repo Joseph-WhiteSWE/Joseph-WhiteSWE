@@ -58,7 +58,7 @@ hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 <br>
 <div> 
   
-  ![Snake animation](https://github.com/Joseph-WhiteSWE/Joseph-WhiteSWE/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
