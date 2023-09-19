@@ -56,7 +56,7 @@ hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joseph-WhiteSWE&theme=elegant)](https://git.io/streak-stats)
 <br>
 <div> 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Joseph-WhiteSWE/Joseph-WhiteSWE/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
