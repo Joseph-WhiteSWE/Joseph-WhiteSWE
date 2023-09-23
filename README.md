@@ -28,7 +28,7 @@ organizations: ["#100Devs", "Htx Code & Coffee"]
 fields_of_interests: ["Fullstack Development","AI","DevOps"]
 currently_learning: ["JavaScript", "React", "Python", "C#"]
 2023 Goals: ["increase familiarity of languages", "create a porfolio website", "create a mobile app"]
-2024 First Quarter Goals: "secure a +90k engineering position"
+2024 First Quarter Goals: "secure a +100k engineering position"
 hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 ```
 
