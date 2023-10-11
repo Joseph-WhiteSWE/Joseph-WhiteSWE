@@ -24,9 +24,9 @@ education:
     "certificate": "Web Development Bootcamp",
     "bachelors": "Cloud Technology"
   }
-organizations: ["#100Devs", "Htx Code & Coffee"]
-fields_of_interests: ["Fullstack Development","AI","DevOps"]
-currently_learning: ["JavaScript", "React", "Python", "Data Structures and Algorithms"]
+organizations: ["#100Devs", "Htx Code & Coffee", "Glappy Village"]
+fields_of_interests: ["Fullstack Development", "Mobile Development"]
+currently_learning: ["JavaScript", "React", "React Native", "Data Structures and Algorithms"]
 2023 Goals: ["increase familiarity of languages", "create a mobile app", "create a porfolio website"]
 2024 First Quarter Goals: "secure a +100k engineering position"
 hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
