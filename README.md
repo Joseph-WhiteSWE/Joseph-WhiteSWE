@@ -48,6 +48,6 @@ hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-<h2>📊 My Stats</h2>
+<!-- <h2>📊 My Stats</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Joseph-WhiteSWE)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Joseph-WhiteSWE)](https://git.io/streak-stats) -->
