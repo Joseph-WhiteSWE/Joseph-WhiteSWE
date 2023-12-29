@@ -28,7 +28,7 @@ organizations: ["#100Devs", "Htx Code & Coffee", "Black in Tech" and "Glappy Vil
 fields_of_interests: ["Fullstack Development", "Mobile Development"]
 currently_learning: ["JavaScript", "React", "React Native", "Data Structures and Algorithms", "Test Driven Development"]
 2023 Goals: ["increase familiarity of languages", "create a mobile app", "create a porfolio blog"]
-2024 First Quarter Goals: "secure a +100k engineering position"
+2024 First Quarter Goals: "secure a +120k engineering position"
 hobbies: ["Comedy", "Gaming", "Art", "Music", "Nature"]
 ```
 
